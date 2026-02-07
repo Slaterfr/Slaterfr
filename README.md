@@ -4,7 +4,7 @@
 - 🤝 **Open to collaborate on:** Web or mobile projects involving high-performance backends and system design.
 - 💬 **Ask me about:** Python, FastAPI, SQL, or why I find system design fascinating!
 
-**Fun fact:** My middle name is actually **Slater**! My uncle gave it to me because he thought it was cool (it was a classmate's name).Im cutrrenly working Data Analysis and Backend Development. I'd love to collaborate to any Web or mobile project that involves larges amounts of data and robust Backend Development and System Design<br>I'm currently learning Backend Engineering, Data Analysis, and System Architecture.<br>Ask me about anything! I'm open to discuss about any of my projects or the topics mentioned before.<br>Fun fact: My middle name is actually Slater! My uncle gave it to me cuz he thought it was cool, it was one of his school classmate's name.
+**Fun fact:** My middle name is actually **Slater**! My uncle gave it to me because he thought it was cool (it was a classmate's name).
 
 
 ## 🌐 Socials:
