@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 **Currently working on:** Robust Backend systems and Data pipelines.
+Hi! I'm Jeff, a **Backend Developer** and **Data Analyst** currently pursuing my degree in **Computer Engineering**. 
+
 - 🌱 **Learning:** System Architecture, Advanced Backend Engineering, and Go.
 - 🤝 **Open to collaborate on:** Web or mobile projects involving high-performance backends and system design.
 - 💬 **Ask me about:** Python, FastAPI, SQL, or why I find system design fascinating!
