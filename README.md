@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi! I'm Jeff, a **Backend Developer** and **Data Analyst** currently pursuing my degree in **Computer Engineering**. 
 
-- 🌱 **Learning:** System Architecture, Advanced Backend Engineering, and Go.
-- 🤝 **Open to collaborate on:** Web or mobile projects involving high-performance backends and system design.
+- 🌱 **Learning:** System Architecture, Advanced Backend Engineering, Advanced SQL and database analysing.
+- 🤝 **Open to collaborate on:** Web or mobile projects involving high-performance backends, system design and Data Management.
 - 💬 **Ask me about:** Python, FastAPI, SQL, or why I find system design fascinating!
 
 **Fun fact:** My middle name is actually **Slater**! My uncle gave it to me because he thought it was cool (it was a classmate's name).
